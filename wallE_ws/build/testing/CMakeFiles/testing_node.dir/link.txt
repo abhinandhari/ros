@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/testing_node.dir/src/sorting.cpp.o  -o /home/abhinand/wallE_ws/devel/lib/testing/testing_node 

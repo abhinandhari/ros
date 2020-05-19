@@ -1,0 +1,8 @@
+prefix=/home/abhinand/wallE_ws/devel
+
+Name: robot_tutorials
+Description: Description of robot_tutorials
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
